@@ -1,0 +1,109 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_81B19718_919C_475D_41A0_A9DDCF55D782.source = https://achadodigital.com.br/
+LinkBehaviour_8E5E5951_9A2A_597E_41CE_378CC7DF6ABE.source = https://achadodigital.com.br/
+LinkBehaviour_8D4357B8_9A16_E92E_41DE_C4929D499BA5.source = https://api.whatsapp.com/send/?phone=5519997171313&text&type=phone_number&app_absent=0
+LinkBehaviour_8405D0C1_91AC_B92F_41AD_469A017CDEAE.source = https://api.whatsapp.com/send/?phone=5519997171313&text&type=phone_number&app_absent=0
+LinkBehaviour_8242EB32_9A16_593D_41CA_5BC19F545B1A.source = https://api.whatsapp.com/send/?phone=5519997171313&text&type=phone_number&app_absent=0
+LinkBehaviour_59A7CF93_774A_341A_41B9_08C2BCA052E5.source = https://api.whatsapp.com/send/?phone=5519997171313&text&type=phone_number&app_absent=0
+LinkBehaviour_6C85E08D_783A_CBA6_4193_1A1BD6369C05.source = https://familyrestaurant.com.br/
+LinkBehaviour_840400BF_91AC_B953_41D3_0C440EF487D0.source = https://familyrestaurant.com.br/
+LinkBehaviour_6ADF21C0_7F52_655F_41D5_BEA46620F22E.source = https://familyrestaurant.com.br/#
+LinkBehaviour_6BDF1270_7F52_273F_41DB_FB12B3413271.source = https://familyrestaurant.com.br/#
+LinkBehaviour_6AFD5B48_7F53_E56F_41DB_FE5763B7DD5F.source = https://familyrestaurant.com.br/#
+LinkBehaviour_840570C3_91AC_B933_41D4_3F2947DF0935.source = https://familyrestaurant.com.br/#
+LinkBehaviour_840420BF_91AC_B953_4189_C9CA82E184C2.source = https://familyrestaurant.com.br/cardapio-family-restaurant/
+LinkBehaviour_6CA3587F_7FD1_E322_41D1_8E6FE7E1E8D0.source = https://familyrestaurant.com.br/cardapio-family-restaurant/
+LinkBehaviour_5A4438F0_775A_1C17_41D4_198F22BCBFEF.source = https://www.facebook.com/santapizzapiracicaba/?locale=pt_BR
+LinkBehaviour_8404F0BE_91AC_B955_41D8_1F800D5EA326.source = https://www.facebook.com/santapizzapiracicaba/?locale=pt_BR
+LinkBehaviour_840700BC_91AC_B955_41C9_F1C85989651E.source = https://www.google.com/maps/place/Santa+Pizza+-+Piracicaba/@-22.7272765,-47.6546895,17z/data=!3m1!4b1!4m6!3m5!1s0x94c6310edd88eef5:0x3c3157a94425d410!8m2!3d-22.7272815!4d-47.6521146!16s%2Fg%2F11bxg14865?entry=ttu
+LinkBehaviour_5CFC149D_77B6_140E_41D2_395511D66835.source = https://www.google.com/maps/place/Santa+Pizza+-+Piracicaba/@-22.7272765,-47.6546895,17z/data=!3m1!4b1!4m6!3m5!1s0x94c6310edd88eef5:0x3c3157a94425d410!8m2!3d-22.7272815!4d-47.6521146!16s%2Fg%2F11bxg14865?entry=ttu
+LinkBehaviour_840580C1_91AC_B92F_41E0_DBCEF49200DB.source = https://www.ifood.com.br/delivery/piracicaba-sp/steaks-piracicaba-centro/42eb99f5-a4a0-41eb-a4f0-37c49e68044e?utm_medium=ReserveGoogle
+LinkBehaviour_8AB5B60E_872E_BAC3_41AC_9322D925AA88.source = https://www.ifood.com.br/delivery/piracicaba-sp/steaks-piracicaba-centro/42eb99f5-a4a0-41eb-a4f0-37c49e68044e?utm_medium=ReserveGoogle
+LinkBehaviour_6B635D8D_7F5E_7DE6_4185_41A03482541F.source = https://www.instagram.com/santapizzapiracicaba/
+LinkBehaviour_840A80C5_91AC_B937_41DC_AFBD7E7EEF73.source = https://www.instagram.com/santapizzapiracicaba/
+LinkBehaviour_8404C0BD_91AC_B957_41D0_E5B1B46B340C.source = https://www.instagram.com/steakspiracicaba/
+LinkBehaviour_5A5D9FFF_774E_1409_41D6_9D013A6CE572.source = https://www.instagram.com/steakspiracicaba/
+LinkBehaviour_6C122D0F_7F5E_E2E2_41D3_9CB45E61A58A.source = https://www.instagram.com/sushibamboopira/
+LinkBehaviour_840AC0C4_91AC_B935_41DF_CC97CF150C9D.source = https://www.instagram.com/sushibamboopira/
+
+## Media
+
+### Audio
+audiores_85BBD1DC_8BFB_BA2B_41B8_569E64136BC3.mp3Url = media/audio_84F970C4_8BF5_BA1A_41D6_6B467E986F46_pt.mp3
+audiores_85B09025_8BFB_BA65_41BE_8B4D882F3BFD.mp3Url = media/audio_8551A193_8BF5_DA3D_41D6_678FD2498F9B_pt.mp3
+
+### Title
+panorama_68EBD5EA_6721_9DA1_41D5_4C2E9417B0E1.label = Aérea Santa Pizza (1)
+panorama_683242DE_665D_1900_41D8_BDDBE3DFADB9.label = Balcão pedido salão
+panorama_683A4824_6653_0900_41CA_BEF1C16EF1B9.label = Banho feminino
+panorama_683A14C7_6652_F900_41C2_2E5F4917225D.label = Brinquedoteca
+panorama_763D9551_6761_F2E3_41D4_D2C6A69B5ECE.label = Fachada
+panorama_683AFE58_6653_090F_41B8_7C5CD5032009.label = Hall banheiros
+panorama_683639B3_665D_0B00_41D4_1DEE2DD05FC7.label = Hall brimquedoteca
+panorama_8F6FF2CF_96AD_9ADE_41E1_A6FD7E61C84A.label = Hall entrada
+panorama_6835E729_665D_0700_41CC_A5875FAF36BA.label = Hall rampa pizza
+panorama_9CD68D62_8C35_EA1F_41D8_0636B86A7CCC.label = Jabuticabeira
+panorama_9D87FDE8_8C34_E5EA_41DF_6A8D75F54432.label = Jardim De Entrada
+panorama_9CB6ADB7_8C34_AA65_41B3_4D8AF8FA3E0E.label = Lago carpas
+panorama_761014A9_665F_1900_41AB_AC76A10E127F.label = Mesa Oval
+panorama_68354D7E_665D_0B00_41A4_87230C2D3EB7.label = Mesas banco 1
+panorama_6835DB70_665D_0F00_41AD_BF65D6792949.label = Mesas banco 2
+panorama_AA6C6D34_81F2_5D27_41D8_B07AF937AD67.label = SAM_100_0114
+panorama_3EE25D6F_3491_7CD4_419B_E2E34601E899.label = Salão Principal
+panorama_683A16C8_6655_F900_41D5_C6D0B808F271.label = adega mesa redonda
+panorama_68362025_665D_7900_41C9_4F99EB761FBF.label = ao lado mesa redonda
+panorama_683A4C16_6653_0903_41D6_AD0B38940C5F.label = banho caderiantes
+panorama_683A1AD9_6653_0900_41CC_7D7E63B2F9D3.label = banho masculino
+panorama_9C747A13_8C34_6E3D_41E1_05BCB2ECDA16.label = cantinho pizza
+panorama_683A3018_6655_1900_41D0_CDE9A13BACEE.label = entrada hamburguer
+panorama_683A75DE_6653_7B00_41D6_C1A83438B440.label = forno pizza
+panorama_8395A22D_8C3C_5E65_41D5_750D5661738A.label = hall de serviço pizza
+panorama_683ACE15_6655_0900_41D2_858132E7961D.label = hamburguer 1
+panorama_683AD96C_6655_0B00_41D0_58623B516F9C.label = hamburguer 2
+panorama_9C73ECD2_8C37_AA3F_41D6_116747196414.label = lado do banheiro e forno 1
+panorama_683A5460_6655_1900_41CD_5CDC9364CD1E.label = lateral faxada 1
+panorama_683A020C_6655_3900_41CB_432A81D9ABA4.label = lateral faxada 2
+panorama_9C08C4F2_8C34_5BFC_41D8_D6A2320E9D8E.label = mesa redonda rampa pizza
+panorama_683BB168_6653_3B00_41C0_3191D6285263.label = parquinho
+panorama_9CD18F3C_8C34_666B_41C2_AAD13F5334F0.label = passarela hall banheiros
+panorama_9C471BCE_8C3B_AE27_41AB_6D96B54BB4E6.label = proximo entrada parquinho
+
+## Skin
+
+### Button
+Button_99587BDB_8B2D_0122_41D7_BA1E9C897D0D.label = FALE CONOSCO
+Button_99587BDB_8B2D_0122_41D7_BA1E9C897D0D_mobile.label = FALE CONOSCO
+
+### Image
+Image_418593E3_4E1E_C381_41B1_863F1472F08B_mobile.url = skin/Image_418593E3_4E1E_C381_41B1_863F1472F08B_mobile_pt.png
+Image_418593E3_4E1E_C381_41B1_863F1472F08B.url = skin/Image_418593E3_4E1E_C381_41B1_863F1472F08B_pt.png
+Image_41A73FE1_4E1D_4381_41D0_B27F930C5D7E_mobile.url = skin/Image_41A73FE1_4E1D_4381_41D0_B27F930C5D7E_mobile_pt.png
+Image_41A73FE1_4E1D_4381_41D0_B27F930C5D7E.url = skin/Image_41A73FE1_4E1D_4381_41D0_B27F930C5D7E_pt.png
+Image_5E4CBEF0_4E1D_C59E_41AF_4917488C4C78_mobile.url = skin/Image_5E4CBEF0_4E1D_C59E_41AF_4917488C4C78_mobile_pt.png
+Image_5E4CBEF0_4E1D_C59E_41AF_4917488C4C78.url = skin/Image_5E4CBEF0_4E1D_C59E_41AF_4917488C4C78_pt.png
+Image_662287B4_74F6_141F_41D9_6F18AB26D053_mobile.url = skin/Image_662287B4_74F6_141F_41D9_6F18AB26D053_mobile_pt.png
+Image_662287B4_74F6_141F_41D9_6F18AB26D053.url = skin/Image_662287B4_74F6_141F_41D9_6F18AB26D053_pt.png
+Image_6BE9A47E_7FB2_6322_41D9_EE48C7AA90FA_mobile.url = skin/Image_6BE9A47E_7FB2_6322_41D9_EE48C7AA90FA_mobile_pt.png
+Image_6BE9A47E_7FB2_6322_41D9_EE48C7AA90FA.url = skin/Image_6BE9A47E_7FB2_6322_41D9_EE48C7AA90FA_pt.png
+Image_6D9AB39A_7FB6_25E2_41DF_4AA50162CB8B_mobile.url = skin/Image_6D9AB39A_7FB6_25E2_41DF_4AA50162CB8B_mobile_pt.png
+Image_6D9AB39A_7FB6_25E2_41DF_4AA50162CB8B.url = skin/Image_6D9AB39A_7FB6_25E2_41DF_4AA50162CB8B_pt.png
+Image_6D9CACC6_7FB3_E362_41CC_2D969B74A79A_mobile.url = skin/Image_6D9CACC6_7FB3_E362_41CC_2D969B74A79A_mobile_pt.png
+Image_6D9CACC6_7FB3_E362_41CC_2D969B74A79A.url = skin/Image_6D9CACC6_7FB3_E362_41CC_2D969B74A79A_pt.png
+Image_81B2D491_919C_592C_41E2_114087E4093E.url = skin/Image_81B2D491_919C_592C_41E2_114087E4093E_pt.png
+Image_8E8CB293_9A2A_ABE2_41CA_84B51EF6E539.url = skin/Image_8E8CB293_9A2A_ABE2_41CA_84B51EF6E539_pt.png
+
+### Tooltip
+IconButton_5CF7E5DD_4E35_4786_41D1_42331965C388.toolTip = Fullscreen
+IconButton_5CF7E5DD_4E35_4786_41D1_42331965C388_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Steak House - Sushi Bamboo - Santa Pizza 
+
+### Title
+tour.name = Family Restant Piracicaba

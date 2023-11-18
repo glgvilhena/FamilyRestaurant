@@ -5,28 +5,28 @@
 ### URL
 LinkBehaviour_283A17F3_25E8_2EB8_41BB_1B6E2CB06ACD.source = https://achadodigital.com.br/
 LinkBehaviour_37E43CC7_264C_4668_41B5_93E8D14D1A93.source = https://achadodigital.com.br/
-LinkBehaviour_8D4357B8_9A16_E92E_41DE_C4929D499BA5.source = https://api.whatsapp.com/send/?phone=5519997171313&text&type=phone_number&app_absent=0
-LinkBehaviour_59A7CF93_774A_341A_41B9_08C2BCA052E5.source = https://api.whatsapp.com/send/?phone=5519997171313&text&type=phone_number&app_absent=0
 LinkBehaviour_8242EB32_9A16_593D_41CA_5BC19F545B1A.source = https://api.whatsapp.com/send/?phone=5519997171313&text&type=phone_number&app_absent=0
+LinkBehaviour_59A7CF93_774A_341A_41B9_08C2BCA052E5.source = https://api.whatsapp.com/send/?phone=5519997171313&text&type=phone_number&app_absent=0
+LinkBehaviour_8D4357B8_9A16_E92E_41DE_C4929D499BA5.source = https://api.whatsapp.com/send/?phone=5519997171313&text&type=phone_number&app_absent=0
 LinkBehaviour_8405D0C1_91AC_B92F_41AD_469A017CDEAE.source = https://api.whatsapp.com/send/?phone=5519997171313&text&type=phone_number&app_absent=0
-LinkBehaviour_DDCAD746_D27E_A5B8_41E9_B72062B3A638.source = https://api.whatsapp.com/send?phone=&text=%20https://glgvilhena.github.io/FamilyRestaurant%20
 LinkBehaviour_C2CA4710_D242_65D7_41C6_C1B385E5D71F.source = https://api.whatsapp.com/send?phone=&text=%20https://glgvilhena.github.io/FamilyRestaurant%20
+LinkBehaviour_DDCAD746_D27E_A5B8_41E9_B72062B3A638.source = https://api.whatsapp.com/send?phone=&text=%20https://glgvilhena.github.io/FamilyRestaurant%20
 LinkBehaviour_840400BF_91AC_B953_41D3_0C440EF487D0.source = https://familyrestaurant.com.br/
 LinkBehaviour_6C85E08D_783A_CBA6_4193_1A1BD6369C05.source = https://familyrestaurant.com.br/
-LinkBehaviour_6AFD5B48_7F53_E56F_41DB_FE5763B7DD5F.source = https://familyrestaurant.com.br/#
 LinkBehaviour_6BDF1270_7F52_273F_41DB_FB12B3413271.source = https://familyrestaurant.com.br/#
 LinkBehaviour_6ADF21C0_7F52_655F_41D5_BEA46620F22E.source = https://familyrestaurant.com.br/#
+LinkBehaviour_6AFD5B48_7F53_E56F_41DB_FE5763B7DD5F.source = https://familyrestaurant.com.br/#
 LinkBehaviour_840570C3_91AC_B933_41D4_3F2947DF0935.source = https://familyrestaurant.com.br/#
-LinkBehaviour_6CA3587F_7FD1_E322_41D1_8E6FE7E1E8D0.source = https://familyrestaurant.com.br/cardapio-family-restaurant/
 LinkBehaviour_840420BF_91AC_B953_4189_C9CA82E184C2.source = https://familyrestaurant.com.br/cardapio-family-restaurant/
+LinkBehaviour_6CA3587F_7FD1_E322_41D1_8E6FE7E1E8D0.source = https://familyrestaurant.com.br/cardapio-family-restaurant/
 LinkBehaviour_5A4438F0_775A_1C17_41D4_198F22BCBFEF.source = https://www.facebook.com/santapizzapiracicaba/?locale=pt_BR
 LinkBehaviour_8404F0BE_91AC_B955_41D8_1F800D5EA326.source = https://www.facebook.com/santapizzapiracicaba/?locale=pt_BR
-LinkBehaviour_D0B21753_DD61_9375_41DB_85732963205E.source = https://www.google.com.br/?hl=pt-BR
 LinkBehaviour_D0E9CB97_DD63_93FD_41E9_51BA01C96700.source = https://www.google.com.br/?hl=pt-BR
+LinkBehaviour_D0B21753_DD61_9375_41DB_85732963205E.source = https://www.google.com.br/?hl=pt-BR
 LinkBehaviour_5CFC149D_77B6_140E_41D2_395511D66835.source = https://www.google.com/maps/place/Santa+Pizza+-+Piracicaba/@-22.7272765,-47.6546895,17z/data=!3m1!4b1!4m6!3m5!1s0x94c6310edd88eef5:0x3c3157a94425d410!8m2!3d-22.7272815!4d-47.6521146!16s%2Fg%2F11bxg14865?entry=ttu
 LinkBehaviour_840700BC_91AC_B955_41C9_F1C85989651E.source = https://www.google.com/maps/place/Santa+Pizza+-+Piracicaba/@-22.7272765,-47.6546895,17z/data=!3m1!4b1!4m6!3m5!1s0x94c6310edd88eef5:0x3c3157a94425d410!8m2!3d-22.7272815!4d-47.6521146!16s%2Fg%2F11bxg14865?entry=ttu
-LinkBehaviour_840580C1_91AC_B92F_41E0_DBCEF49200DB.source = https://www.ifood.com.br/delivery/piracicaba-sp/steaks-piracicaba-centro/42eb99f5-a4a0-41eb-a4f0-37c49e68044e?utm_medium=ReserveGoogle
 LinkBehaviour_8AB5B60E_872E_BAC3_41AC_9322D925AA88.source = https://www.ifood.com.br/delivery/piracicaba-sp/steaks-piracicaba-centro/42eb99f5-a4a0-41eb-a4f0-37c49e68044e?utm_medium=ReserveGoogle
+LinkBehaviour_840580C1_91AC_B92F_41E0_DBCEF49200DB.source = https://www.ifood.com.br/delivery/piracicaba-sp/steaks-piracicaba-centro/42eb99f5-a4a0-41eb-a4f0-37c49e68044e?utm_medium=ReserveGoogle
 LinkBehaviour_6B635D8D_7F5E_7DE6_4185_41A03482541F.source = https://www.instagram.com/santapizzapiracicaba/
 LinkBehaviour_840A80C5_91AC_B937_41DC_AFBD7E7EEF73.source = https://www.instagram.com/santapizzapiracicaba/
 LinkBehaviour_8404C0BD_91AC_B957_41D0_E5B1B46B340C.source = https://www.instagram.com/steakspiracicaba/
@@ -108,4 +108,4 @@ IconButton_5CF7E5DD_4E35_4786_41D1_42331965C388_mobile.toolTip = Fullscreen
 tour.description = Steak House - Sushi Bamboo - Santa Pizza 
 
 ### Title
-tour.name = Family Restant Piracicaba
+tour.name = Family Restaurant Piracicaba
